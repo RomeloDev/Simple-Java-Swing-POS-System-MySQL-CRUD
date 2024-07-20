@@ -6,10 +6,17 @@
 
 ## ScreenShots:
 
-![image]()
-![image]()
-![image]()
-![image]()
+Home Frame:
+![image](https://github.com/RomeloDev/Simple-Java-Swing-POS-System-MySQL-CRUD/blob/main/screenshot/home.png)
+
+Adding a Product Frame:
+![image](https://github.com/RomeloDev/Simple-Java-Swing-POS-System-MySQL-CRUD/blob/main/screenshot/add-product.png)
+
+Order Frame:
+![image](https://github.com/RomeloDev/Simple-Java-Swing-POS-System-MySQL-CRUD/blob/main/screenshot/order-product.png)
+
+Pay Order Frame:
+![image](https://github.com/RomeloDev/Simple-Java-Swing-POS-System-MySQL-CRUD/blob/main/screenshot/pay-order.png)
 
 ## Video Demo:
 
